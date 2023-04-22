@@ -50,7 +50,7 @@ else
 		
 		Text = {
 			posX = 0.962, posY = 0.4, alignment = 3,
-			size = 12, isBold = true, isItalicised = false, isBordered = true, isShadowed = true, isAllCaps = true,
+			size = 12, isBold = false, isItalicised = false, isBordered = true, isShadowed = true, isAllCaps = true,
 			boxOpacity = tonumber("C8", 16)
 		}
 	}
